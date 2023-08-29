@@ -6,7 +6,7 @@
 - 📫 How to reach me: joaociricovitor@gmail.com
 <br>
 
-<img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ciricoo&layout=compact&langs_count=7&theme=dark"/>
+<img width="80%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ciricoo&layout=compact&langs_count=7&theme=dark"/>
 </div>
   
 <div> 
