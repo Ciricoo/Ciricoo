@@ -2,8 +2,11 @@
 
 - 🌱 I’m currently learning Java and Python
 - 👯 I’m looking to collaborate on My Projects
-- 💬 Ask me about Gym and Soccer
+- 🔭 Software Projetist
+- 👯 Back-end developer!
+- 💬 18 years
 - 📫 How to reach me: joaociricovitor@gmail.com
+- ⚡ “Truth can only be found in one place: the code.”
 <br>
 
   ### 🛠️ GitHub Stats
