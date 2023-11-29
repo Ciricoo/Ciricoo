@@ -1,9 +1,7 @@
 ### Hi there, I'm Círico 👋
 
-- 🌱 I’m currently learning Java, Node.js and PHP
+- 🌱 I’m currently learning Java and PHP
 - 👯 I’m looking to collaborate on My Projects
-- 🔭 Software Projetist
-- 👯 Back-end developer!
 - 💬 18 years
 - 📫 How to reach me: joaociricovitor@gmail.com
 - ⚡ “Truth can only be found in one place: the code.”
