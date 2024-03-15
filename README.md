@@ -1,6 +1,7 @@
 ### Hi there, I'm Círico 👋
 
-- 🌱 I’m currently learning Java and PHP
+- 🔭 Currently working at Movtech Systems
+- 🌱 I’m learning Java, PHP and C#
 - 👯 I’m looking to collaborate on My Projects
 - 💬 18 years
 - 📫 How to reach me: joaociricovitor@gmail.com
