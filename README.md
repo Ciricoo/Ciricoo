@@ -1,7 +1,7 @@
 ### Hi there, I'm Círico 👋
 
 - 🔭 Currently working at Movtech Systems
-- 🌱 I’m learning PHP and C#
+- 🌱 I’m learning TypeScript, Angular and C#
 - 👯 I’m looking to collaborate on My Projects
 - 💬 18 years
 - 📫 How to reach me: joaociricovitor@gmail.com
