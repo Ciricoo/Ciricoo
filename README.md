@@ -11,8 +11,8 @@
   ### 🛠️ GitHub Stats
 
  <div>
-  <a href="https://github.com/JuanFeliciano">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=JuanFeliciano&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <a href="https://github.com/Ciricoo">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Ciricoo&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
 <div>
   
 <div> 
