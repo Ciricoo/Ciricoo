@@ -1,9 +1,8 @@
 ### Hi there, I'm Círico 👋
 
+- 💻 Software Engineering
 - 🔭 Currently working at Movtech Systems
-- 🌱 Full stack developer
 - 👯 I’m looking to collaborate on My Projects
-- 💬 18 years
 - 📫 How to reach me: joaociricovitor@gmail.com
 - ⚡ “Truth can only be found in one place: the code.”
 <br>
