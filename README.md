@@ -1,6 +1,6 @@
 ### Hi there, I'm Círico 👋
 
-- 💻 Software Engineering
+- 💻 Software Engineer
 - 🔭 Currently working at Movtech Systems
 - 👯 I’m looking to collaborate on My Projects
 - 📫 How to reach me: joaociricovitor@gmail.com
