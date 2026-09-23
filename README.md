@@ -1,22 +1,23 @@
-### Hi there, I'm Círico 👋
+<h1 align="center">João Vitor Círico</h1>
 
-- 💻 Software Engineer
-- 🔭 Currently working at Movtech Systems
-- 📫 How to reach me: joaociricovitor@gmail.com
-- ⚡ “Truth can only be found in one place: the code.”
-<br>
+<p align="center">
+  Software Engineer focused on building scalable, maintainable and business-oriented software.<br/>
+  .NET · C# · Angular · TypeScript · Software Architecture
+</p>
 
-  ### 🛠️ GitHub Stats
+<p align="center">
+  <img src="https://img.shields.io/badge/Software%20Engineering-Católica%20SC-%23333?style=flat-square" />
+  <img src="https://img.shields.io/badge/Full%20Stack-Developer-%23333?style=flat-square" />
+</p>
 
- <div>
-  <a href="https://github.com/Ciricoo">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Ciricoo&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&rank_icon=github"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Ciricoo&layout=compact&langs_count=8&theme=tokyonight"/>
+---
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=dotnet,cs,angular,ts,html,css,scss,postgres,mysql,oracle,docker,git,github" />
+</p>
+
+---
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=cirico&theme=tokyonight&hide_border=true&locale=pt_BR&date_format=j%20M%5B%20Y%5D" />
 </div>
-  
-<div> 
-  <a href = "mailto:joaociricovitor@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&ogo=gmail&color=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/cirico/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-</div>
-
-
