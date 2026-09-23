@@ -7,7 +7,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Software%20Engineering-Católica%20SC-%23333?style=flat-square" />
-  <img src="https://img.shields.io/badge/Full%20Stack-Developer-%23333?style=flat-square" />
+  <img src="https://img.shields.io/badge/Full%20Stack%20Developer-Movtech%20Systems-%23333?style=flat-square" />
 </p>
 
 ---
