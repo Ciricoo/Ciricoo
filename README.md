@@ -1,7 +1,7 @@
 <h1 align="center">João Vitor Círico</h1>
 
 <p align="center">
-  Software Engineer focused on building scalable, maintainable and business-oriented software.<br/>
+  Software Engineer focused on scalable and maintainable software.<br/>
   .NET · C# · Angular · TypeScript · Software Architecture
 </p>
 
@@ -13,11 +13,11 @@
 ---
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=dotnet,cs,angular,ts,html,css,scss,postgres,mysql,oracle,docker,git,github" />
+  <img src="https://skillicons.dev/icons?i=dotnet,cs,angular,ts,html,css,scss,postgres,oracle,docker,git,github,flutter,c,cpp,java,python" />
 </p>
 
 ---
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=cirico&theme=tokyonight&hide_border=true&locale=pt_BR&date_format=j%20M%5B%20Y%5D" />
-</div>
+<p align="center">
+  Clean Architecture · DDD · SOLID · CQRS · Design Patterns · Unit Testing · Code Review
+</p>
